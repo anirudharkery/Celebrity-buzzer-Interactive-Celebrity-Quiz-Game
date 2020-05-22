@@ -17,6 +17,7 @@ class Result extends StatelessWidget {
     } else {
       resultText = 'Try Again';
     }
+    
       return resultText;
   }
 
